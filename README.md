@@ -285,10 +285,10 @@ curl -X POST http://localhost:5000/api/orders \
 - Sanitized file names
 
 ### Error Handling:
-- ✅ Centralized error handler
-- ✅ Consistent error format
-- ✅ No sensitive data in errors
-- ✅ Graceful failure handling
+- Centralized error handler
+- Consistent error format
+- No sensitive data in errors
+- Graceful failure handling
 
 ---
 

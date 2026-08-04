@@ -279,10 +279,10 @@ curl -X POST http://localhost:5000/api/orders \
 - Environment variables for sensitive config
 
 ### File Upload Security:
-- ✅ Image type validation (only images allowed)
-- ✅ File size limits (max 5MB)
-- ✅ Secure file storage path
-- ✅ Sanitized file names
+- Image type validation (only images allowed)
+- File size limits (max 5MB)
+- Secure file storage path
+- Sanitized file names
 
 ### Error Handling:
 - ✅ Centralized error handler

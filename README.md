@@ -315,7 +315,7 @@ curl -X POST http://localhost:5000/api/orders \
 - Dependency security scanning
 - API documentation
 - Error handling standards
-- ✅ Security best practices
+- Security best practices
 
 ---
 

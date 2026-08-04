@@ -307,7 +307,7 @@ curl -X POST http://localhost:5000/api/orders \
 - Product module: Search, filter, pagination
 - Category module: CRUD operations
 - Cart module: Add, remove, update items
-- ✅ Order module: Create, retrieve, update status
+- Order module: Create, retrieve, update status
 
 ### Quality Measures:
 - ✅ Code linting and formatting

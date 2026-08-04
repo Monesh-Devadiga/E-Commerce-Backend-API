@@ -402,7 +402,7 @@ CORS_ORIGIN=http://localhost:3000
   - **Secure authentication** with JWT and bcrypt
   - **Full CRUD operations** for all resources
   - **Advanced features** including search, filtering, pagination
-✅ **Shopping cart and order management** systems
+  - **Shopping cart and order management** systems
 ✅ **Comprehensive security** measures and best practices
 ✅ **Clean, modular architecture** following industry standards
 ✅ **Comprehensive documentation** and testing

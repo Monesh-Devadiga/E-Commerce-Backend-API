@@ -314,7 +314,7 @@ curl -X POST http://localhost:5000/api/orders \
 - Type checking (if TypeScript)
 - Dependency security scanning
 - API documentation
-- ✅ Error handling standards
+- Error handling standards
 - ✅ Security best practices
 
 ---

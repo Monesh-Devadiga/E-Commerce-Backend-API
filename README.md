@@ -265,11 +265,11 @@ curl -X POST http://localhost:5000/api/orders \
 - Protected routes for sensitive operations
 
 ### Input Validation:
-- ✅ Built-in validation with Mongoose schemas
-- ✅ Email format validation
-- ✅ Password complexity requirements
-- ✅ Enum validation for enums
-- ✅ Range validation for numbers
+- Built-in validation with Mongoose schemas
+- Email format validation
+- Password complexity requirements
+- Enum validation for enums
+- Range validation for numbers
 
 ### Request Security:
 - ✅ Rate limiting with express-rate-limit

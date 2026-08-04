@@ -272,11 +272,11 @@ curl -X POST http://localhost:5000/api/orders \
 - Range validation for numbers
 
 ### Request Security:
-- ✅ Rate limiting with express-rate-limit
-- ✅ Security headers with helmet
-- ✅ CORS configured for controlled origins
-- ✅ Consistent error responses (no stack traces)
-- ✅ Environment variables for sensitive config
+- Rate limiting with express-rate-limit
+- Security headers with helmet
+- CORS configured for controlled origins
+- Consistent error responses (no stack traces)
+- Environment variables for sensitive config
 
 ### File Upload Security:
 - ✅ Image type validation (only images allowed)

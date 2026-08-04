@@ -385,7 +385,7 @@ CORS_ORIGIN=http://localhost:3000
 ```
 
 ### Production Considerations:
-- ✅ SSL/TLS encryption
+- SSL/TLS encryption
 - ✅ Load balancing
 - ✅ Database replication
 - ✅ Monitoring and logging

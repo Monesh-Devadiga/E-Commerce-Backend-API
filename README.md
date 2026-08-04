@@ -304,7 +304,7 @@ curl -X POST http://localhost:5000/api/orders \
 ### Test Coverage:
 - Auth module: Register, Login, protected routes
 - User module: CRUD operations
-- ✅ Product module: Search, filter, pagination
+- Product module: Search, filter, pagination
 - ✅ Category module: CRUD operations
 - ✅ Cart module: Add, remove, update items
 - ✅ Order module: Create, retrieve, update status

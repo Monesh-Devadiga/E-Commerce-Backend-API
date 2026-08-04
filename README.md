@@ -398,9 +398,9 @@ CORS_ORIGIN=http://localhost:3000
 ## 10. Conclusion
 
 ### Project Achievements:
-✅ **Complete E-Commerce Backend API** with all required features
-✅ **Secure authentication** with JWT and bcrypt
-✅ **Full CRUD operations** for all resources
+  **Complete E-Commerce Backend API** with all required features
+  **Secure authentication** with JWT and bcrypt
+  **Full CRUD operations** for all resources
 ✅ **Advanced features** including search, filtering, pagination
 ✅ **Shopping cart and order management** systems
 ✅ **Comprehensive security** measures and best practices

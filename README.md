@@ -1,5 +1,4 @@
 # E-Commerce Backend API Internship Report
----
 
 ## 1. Project Overview
 

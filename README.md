@@ -1,7 +1,4 @@
 # E-Commerce Backend API Internship Report
-## Node.js Development Internship
-### Week 4 – E-Commerce Backend API (Capstone Project)
-
 ---
 
 ## 1. Project Overview

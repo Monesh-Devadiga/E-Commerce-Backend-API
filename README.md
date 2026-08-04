@@ -310,7 +310,7 @@ curl -X POST http://localhost:5000/api/orders \
 - Order module: Create, retrieve, update status
 
 ### Quality Measures:
-- ✅ Code linting and formatting
+- Code linting and formatting
 - ✅ Type checking (if TypeScript)
 - ✅ Dependency security scanning
 - ✅ API documentation

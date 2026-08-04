@@ -313,7 +313,7 @@ curl -X POST http://localhost:5000/api/orders \
 - Code linting and formatting
 - Type checking (if TypeScript)
 - Dependency security scanning
-- ✅ API documentation
+- API documentation
 - ✅ Error handling standards
 - ✅ Security best practices
 

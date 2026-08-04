@@ -302,7 +302,7 @@ curl -X POST http://localhost:5000/api/orders \
 - Validation tests
 
 ### Test Coverage:
-- ✅ Auth module: Register, Login, protected routes
+- Auth module: Register, Login, protected routes
 - ✅ User module: CRUD operations
 - ✅ Product module: Search, filter, pagination
 - ✅ Category module: CRUD operations

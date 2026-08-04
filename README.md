@@ -258,11 +258,11 @@ curl -X POST http://localhost:5000/api/orders \
 ## 6. Security Measures
 
 ### Authentication & Authorization:
-- ✅ Passwords hashed with bcrypt (12 salt rounds)
-- ✅ JWT tokens with expiration
-- ✅ Password field excluded from queries
-- ✅ Role-based access control (user vs admin)
-- ✅ Protected routes for sensitive operations
+- Passwords hashed with bcrypt (12 salt rounds)
+- JWT tokens with expiration
+- Password field excluded from queries
+- Role-based access control (user vs admin)
+- Protected routes for sensitive operations
 
 ### Input Validation:
 - ✅ Built-in validation with Mongoose schemas

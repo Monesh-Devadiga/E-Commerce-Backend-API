@@ -449,7 +449,7 @@ The E-Commerce Backend API provides a robust foundation for an e-commerce platfo
 - **Metrics**: API performance metrics
 - **Alerting**: Error and performance alerting
 - **Tracing**: Distributed tracing support
-
+ 
 ### Compliance & Security:
 - **GDPR**: User data protection
 - **CCPA**: Consumer privacy rights

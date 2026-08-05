@@ -7,7 +7,7 @@ The E-Commerce Backend API is a complete RESTful web service built with Node.js 
 ### Project Objectives:
 - Implement secure user registration and login with JWT authentication
 - Provide full CRUD operations for products and categories
-- Enable product search, filtering, and pagination
+- Enable product search, filtering and pagination
 - Implement shopping cart management with checkout functionality
 - Manage orders with status tracking and payment processing
 - Ensure input validation and proper error handling

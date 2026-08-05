@@ -204,6 +204,7 @@ Authorization: Bearer <token>
 ### Sample API Endpoints
 
 #### User Registration
+Example:
 ```bash
 curl -X POST http://localhost:5000/api/auth/register \
   -H "Content-Type: application/json" \

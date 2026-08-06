@@ -13,7 +13,7 @@ The E-Commerce Backend API is a complete RESTful web service built with Node.js 
 - Ensure input validation and proper error handling
 - Maintain clean, modular project architecture following best practices
 - Apply all concepts learned during the internship
-
+a
 ---
 
 ## 2. Technology Stack

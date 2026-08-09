@@ -3,7 +3,7 @@
 ## 1. Project Overview
 
 The E-Commerce Backend API is a complete RESTful web service built with Node.js and Express.js that provides comprehensive backend functionality for managing e-commerce operations. The API supports user authentication, product management, category management, shopping cart, order processing and secure REST APIs.
-a
+
 ### Project Objectives:
 - Implement secure user registration and login with JWT authentication
 - Provide full CRUD operations for products and categories
